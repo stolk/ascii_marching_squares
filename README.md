@@ -48,6 +48,7 @@ XXXXXXXXXXXXXXXX
 ```
 
 ...the following output image will be assembled:
+
 ![output](output.png "output")
 
 ## Requirements
